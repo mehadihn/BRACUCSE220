@@ -1,0 +1,5 @@
+This are the lab codes for CSE220:DATA STRUCTURES
+
+Not all the codes are 100% correct specially the first labs
+
+Tried to find the output and submit :P
